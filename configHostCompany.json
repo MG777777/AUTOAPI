@@ -1,0 +1,10 @@
+{
+  "AuthUrl": "Enter your api authorization url host company",
+  "ApiUrl": "Enter your api end url host company",
+  "PersonUrl": "Enter your url of list persons at host company",
+  "CompanyUrl": "Enter your url of list companies at host company",
+  "CostUnitsUrl": "Enter your url of list at host company", //here you can add more url to check and compare if needed but you need to change CostUnitsUrl to your own url
+  "ClientId": "Client id at host comapy",
+  "Username": "", //"will take from Azure key vault",
+  "Password": "" //"will take from Azure key vault"
+}
