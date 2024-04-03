@@ -39,6 +39,6 @@ If you encounter any issues while using the CCR project or have suggestions for 
 The CCR project is licensed under the MIT License, as specified in the previous Readme.
 
 # Contact
-For any inquiries or assistance regarding the CCR project, you can reach out to the project maintainers at email@example.com.
+For any inquiries or assistance regarding the CCR project, you can reach out to the project maintainers at magnumh777@gmail.com.
 
 Thank you for your interest in the Customer Check and Registration (CCR) project! We look forward to your contributions and hope this project proves valuable for automating customer management processes.
